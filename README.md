@@ -7,9 +7,19 @@
 > <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 
-## Introduction
+## Overview
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+This Power BI project analyzes the global data job market using real-world data science job postings from 2024.
+The dashboard provides clear, actionable insights into job demand, salary trends, skill requirements, and geographic distribution of data roles.
+
+It is designed to support job seekers, career switchers, recruiters, and workforce planners in understanding market trends and making informed career and hiring decisions.
+
+## Business Questions
+
+- Which data roles are most in demand globally?
+- How do salaries vary by job title, location, and work type?
+- What skills are most commonly required across data roles?
+- How do salary ranges differ within individual job titles?
 
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
@@ -65,6 +75,8 @@ This dashboard showcases how Power BI can transform raw job posting data into a 
 
 Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
+
+
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).  
 
@@ -97,6 +109,21 @@ This page acts as your concise mission control for the data job market. It showc
 
 ---
 
+## Key Insights
+
+- Senior and engineering-focused data roles consistently command higher median salaries.
+- Salary levels vary significantly by geography, highlighting opportunities for remote and location-based hiring strategies.
+- Core skills (SQL, Python, BI tools) appear across most roles, while specialized tools are linked to higher compensation.
+- Skill density per role correlates with higher salary ranges, especially in senior positions.
+
+## Business Use Cases
+
+- Salary benchmarking for data roles
+- Identifying high-value skills for hiring and training
+- Supporting location-based compensation strategies
+- Career planning and market trend analysis
+
 ## Conclusion
 
-This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers, Job Transitioners, and Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
+This Power BI dashboard demonstrates how complex job market data can be transformed into a clear, interactive decision-support tool.
+By combining strong data modeling, DAX calculations, and thoughtful dashboard design, the project delivers actionable insights for both individual career planning and organizational workforce strategy.
